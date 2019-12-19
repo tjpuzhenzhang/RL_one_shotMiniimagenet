@@ -12,3 +12,6 @@ For mini-Imagenet experiments, please download mini-Imagenet(see the ./data/down
  
 # Train
 python miniimagenet_train_one_shot.py
+
+# Test
+python miniimagenet_test_one_shot
